@@ -1,0 +1,81 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #000000;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 322px;
+    gap: 17px;
+}
+
+.video-principal {
+    display: flex;
+    flex-direction: column;
+    margin-top: 38px;
+    margin-left: 35px;
+    gap: 12px;
+}
+
+.titulo-video-principal {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 7px;
+    line-height: 100%;
+}
+
+.visualizacoes {
+    font-size: 14px;
+    margin-bottom: 9px;
+    line-height: 100%;
+}
+
+.descricao {
+    font-size: 16px;
+    line-height: 100%;
+    max-width: 538px;
+}
+
+.recomendados {
+    margin-top: 38px;
+}
+
+.video-recomendados{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.anuncio-recomendados {
+    margin-bottom: 20px;
+}
+
+.video-info-recomendados {
+    display: flex;
+}
+
+.video-info-recomendados-detalhes{
+    display: flex;
+    flex-direction: column;
+    margin-left: 4px;
+}
+
+.video-recomendados-titulo {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 7px;
+}
+.video-card-autor {
+    font-size: 11px;
+    margin-bottom: 5px;
+}
+
+.video-card-visualizacoes {
+    font-size: 11px;
+    margin-bottom: 5px;
+}
+
+.video-card-tempo {
+    font-size: 11px;
+}
