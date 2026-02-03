@@ -4,6 +4,12 @@ Projeto de página estática inspirado no layout do YouTube, com **vídeo princi
 O foco é praticar **HTML semântico**, **CSS Grid** e **Flexbox**, além de organização de código (reset + style).
 
 ---
+### Links
+
+- Repositório: https://github.com/wellfefe/Youtube
+- URL do site ao vivo: https://wellfefe.github.io/Youtube/
+
+---
 
 ## 🧩 Funcionalidades / Componentes
 
